@@ -20,8 +20,8 @@
      1. Sublista
 
  [Texto da imagem](https://sothis.com.br/wp-content/uploads/2020/10/como-utilizar-a-ti-para-visualizacao-de-dados.jpg)
- 
- ![New Imagem](https://sothis.com.br/wp-content/uploads/2020/10/como-utilizar-a-ti-para-visualizacao-de-dados.jpg)
+
+ ![New Imagem](https://pages.cortex-intelligence.com/hubfs/Imported_Blog_Media/original-5d9dd00341a73a4e6803046d61b3b3dd-e1607639183846-2-1-2.jpg)
 
 <!--
 
