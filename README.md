@@ -20,6 +20,7 @@
      1. Sublista
 
  [Texto da imagem](https://sothis.com.br/wp-content/uploads/2020/10/como-utilizar-a-ti-para-visualizacao-de-dados.jpg)
+ 
  ![New Imagem](https://sothis.com.br/wp-content/uploads/2020/10/como-utilizar-a-ti-para-visualizacao-de-dados.jpg)
 
 <!--
