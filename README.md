@@ -6,7 +6,15 @@
 #### Título4
 ##### Título5
 ###### título6
+
+*italico* _italico_
+
+**negrito** __negrito__
+
 <!--
+
+*italico*
+
 **thomas29danner/thomas29danner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
