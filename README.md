@@ -11,9 +11,12 @@
 
 **negrito** __negrito__
 
+- Lista1
+- Lista2
+  -SubLista
+
 <!--
 
-*italico*
 
 **thomas29danner/thomas29danner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
