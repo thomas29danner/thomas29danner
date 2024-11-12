@@ -14,9 +14,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width= "100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width= "100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width= "100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" width= "100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= "100px">
 
------------
+-----
+
 | Curso | Certificado |
-|------ | ------------|
+|------- | ------------|
 | AWS Knowledge: Cloud Essentials| [Certificado](https://www.credly.com/badges/8f2b0f29-5a7d-4979-8392-be506c5395a5/linked_in_profile)
 
 | Curso | Certificado |
