@@ -32,7 +32,8 @@
 | IA Generativa: A Evolução da Busca Online Inteligente | [Certificado](https://www.linkedin.com/learning/certificates/0775f611522f14244c191843703e37d7091fd398a26e9f920b6c28a8679f04de?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Be2PjykzcTSWkkcIqWVNSPg%3D%3D)
 
 -----
-![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Thomas Danner GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazrathomas29danner&show_icons=true&theme=radical)
+
 
 <!--
 
