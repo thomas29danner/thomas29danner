@@ -1,9 +1,8 @@
-## Seja Bem vindo 👋
+## <center><h2> Sejam bem vindos </center></h2>
 
-<center><h2> Sejam bem vindos </center></h2>
 
 ![Gif do mlk do pc](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppZzdhM3MwZWdwazVyNTc0eTdrbXhpcG1kODN6OXkzaWV6cnM1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
-------------------- 
+
 
 ✋ Hi, me chamo Thomas Danner!<br>
 💻 Atuo como Analista de TI.<br> 
